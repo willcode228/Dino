@@ -1,5 +1,5 @@
 # Dino
-# T-Rex Game.\n
+# T-Rex Game.
 Easy Dino(T-rex) game from google.
 In this projects I didn't use canvas or others libraries for graphic render.
 All poject was writing in html,css,js.
